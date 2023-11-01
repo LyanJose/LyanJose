@@ -1,4 +1,13 @@
-### Hi there 👋
+- 👩‍💻 Computer Scientist
+- 🌌 Explorer of the Digital Universe
+- 🧠 Innovator in Code
+- 🎨 Artist of Algorithms
+- 🔭 Curious Problem Solver
+- 🌟 Enthusiastic Learner
+- 📚 Eternal Student
+- 💡 Tech Evangelist
+- 🖥️ Lover of Binary Beauty
+- 🌐 Connecting People & Pixels
 
 <!--
 **LyanJose/LyanJose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
